@@ -1,0 +1,10 @@
+[profile OW-AI-Int-Dev]
+sso_session = OW-AI-Developers
+sso_account_id = 970376922728
+sso_role_name = OW-AI-Developers
+region = eu-west-2
+
+[sso-session OW-AI-Developers]
+sso_start_url = https://d-9c677d8c7e.awsapps.com/start/#/
+sso_region = eu-west-2
+sso_registration_scopes = sso:account:access
